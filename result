@@ -1,0 +1,6 @@
+(venv) PS C:\Users\Ivan\PycharmProjects\testing3> python -m unittest main.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
